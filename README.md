@@ -67,7 +67,7 @@ Cheers!
 
 
 
-Reference
+### Reference
 [1] "Booting a Physical Windows 10 Disk Using VirtualBox on Linux" virtualbox Forum. http://chriscurrin.com/2021/virtualbox-raw-disk-with-ubuntu-host-and-windows-guest-on-the-same-drive/
 [2] "Booting a Physical Windows 10 Disk Using VirtualBox on Linux" jamieweb. https://www.jamieweb.net/blog/booting-a-physical-windows-10-disk-using-virtualbox-on-linux/
 [3] "How to start a windows partition from the Grub command line" stackExchange. https://unix.stackexchange.com/questions/259069/how-to-start-a-windows-partition-from-the-grub-command-line
